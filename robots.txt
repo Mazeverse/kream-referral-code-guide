@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kream.creamcode.xyz/sitemap.xml
